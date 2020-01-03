@@ -1,1 +1,2 @@
 # Brobot
+Brobot is your personal digital assistant. It is a chat-bot written in python. Brobot takes voice commands and can do variety of stuff for you. It can send emails, send whatsapp messages, set reminders and much more. Brobot has a answer to question, be it the temperature at your city or writter of the book 'The Stanger'. If brobot fails to answer your question (which will happen once in a blue moon), you will be redirected to a favorable google search result page. How cool is that?!! 
